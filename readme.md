@@ -5,7 +5,7 @@ This is really just a selection of rules from [eslint-plugin-react](https://gith
 ## install
 
 ```bash
-npm install eslint-plugin-hyperdom
+npm install eslint-plugin-hyperdom --save-dev
 ```
 
 ## .estlintrc
