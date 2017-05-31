@@ -1,4 +1,4 @@
-# eslint plugin for hyperdom
+# eslint plugin for hyperdom [![npm version](https://img.shields.io/npm/v/eslint-plugin-hyperdom.svg)](https://www.npmjs.com/package/eslint-plugin-hyperdom) [![npm](https://img.shields.io/npm/dm/eslint-plugin-hyperdom.svg)](https://www.npmjs.com/package/eslint-plugin-hyperdom)
 
 This is really just a selection of rules from [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) that are useful in hyperdom JSX.
 
