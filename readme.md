@@ -28,3 +28,6 @@ npm install eslint-plugin-hyperdom --save-dev
 * [hyperdom/jsx-uses-vars](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-uses-vars.md): Prevent variables used in JSX to be incorrectly marked as unused
 * [hyperdom/jsx-no-duplicate-props](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-duplicate-props.md): Prevent duplicate props in JSX
 * [hyperdom/jsx-no-undef](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-undef.md): Disallow undeclared variables in JSX
+
+## We're Hiring!
+Featurist provides full stack, feature driven development teams. Want to join us? Check out [our career opportunities](https://www.featurist.co.uk/careers/).
